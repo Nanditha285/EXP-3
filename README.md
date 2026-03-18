@@ -49,6 +49,7 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+![image](https://github.com/Nanditha285/EXP-3/blob/main/Screenshot%202026-03-18%20185813.png?raw=true)
 
 Tabulation:2
 
