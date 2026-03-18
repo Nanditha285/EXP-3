@@ -43,11 +43,14 @@ Direct connection: CIRCUIT DIAGRAM:
 
 
 Tabulation:1
+
+![image](https://github.com/Nanditha285/EXP-3/blob/main/Screenshot%202026-03-18%20190133.png?raw=true)
 	
 Cross connection: CIRCUIT DIAGRAM:
 
 
 Tabulation:2
+![image](https://github.com/Nanditha285/EXP-3/blob/main/Screenshot%202026-03-18%20190119.png?raw=true)
 
 ![image](https://github.com/Nanditha285/EXP-3/blob/main/Screenshot%202026-03-18%20190133.png?raw=true)
 
